@@ -15,7 +15,6 @@ Duration: 18 June 2026 - 16 July 2026
 Project Name: Supermarket Sales Analysis
 
 1. Introduction :
-2. 
 Data analysis helps businesses understand customer behavior, sales performance, and market trends. In this project, supermarket sales data is analyzed to identify sales patterns, customer preferences, and branch performance.
 
 3. Objective :
