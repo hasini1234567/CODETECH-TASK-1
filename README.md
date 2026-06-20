@@ -1,16 +1,24 @@
 SUPERMARKET SALES ANALYSIS
 
 Intern Name: BIROOR HASINI
+
 Intern ID: CITS5170
+
 COMPANY: CODETECH IT SOLUTIONS 
+
 DOMAIN: DATA SCIENCE
+
 College Name: Malla Reddy College for Women
+
 Duration: 18 June 2026 - 16 July 2026
+
 Project Name: Supermarket Sales Analysis
+
 1. Introduction :
+2. 
 Data analysis helps businesses understand customer behavior, sales performance, and market trends. In this project, supermarket sales data is analyzed to identify sales patterns, customer preferences, and branch performance.
 
-2. Objective :
+3. Objective :
 The main objectives of this project are:
 * Analyze overall supermarket sales.
 * Identify the best-selling product categories.
